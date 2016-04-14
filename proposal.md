@@ -8,6 +8,10 @@ Adbros, Inc has developed an advertising model that we think would be of great i
 
 ###The Model###
 ####How it Works###
+Traditional advertising models can't predict unusually popular times and they require active management. On the other hand, our digital screens are set up to change as often as the flow of passengers moves through each station - no constant installation required. Advertisers visit our internet portal www.getyradhere.com and select criteria from dropdown menus that informs the maximum amount they are willing to pay to run their ads. As passengers enter and exit the turnstiles, the price changes and the revenue increases dramatically. 
+
+We are also able to predict the most popular routes during what time of the day. 
+
 The price for ad space on our digital screens changes as more people arrive on the platform. Historically popular routes are  
 The price for ad space changes as more people get on the platform - advertisers set up their account preferences on our website to be filtered out as 'bid price' grows
 digital screens change as more people are entering (entire passenger flow predicted by history data - we won't miss exits)
