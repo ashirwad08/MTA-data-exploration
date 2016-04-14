@@ -1,5 +1,5 @@
 def getData(startdt, savepath):
-    """takes in start dt as a tuple (yy,m,d) and savepath as a string ('path/<file.txt>'); saves a big CSV file to this path
+    """takes in start dt as a list [yy,m,d] and savepath as a string ('path/<file.txt>'); saves a big CSV file to this path
     which can be read in as a giant pandas dataframe."""
     
     #create filename url list (summer 2015 start date is 15,7,4)
