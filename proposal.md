@@ -23,7 +23,7 @@ We also have the differences for each station, so we can account for traditional
 And also traditional commuter stops, such as Penn Station:
 ![Penn Station by Season](/plots/penn_hourly.png)
 
-####Low Hassel, Low Cost, Huge Rewards####
+####Low Hassle, Low Cost, Huge Rewards####
 The initial cost of our model is the purchase and installation of our digital screens throughout the subway system. While the digital screens are initially more costly than print ads, they will more than pay for themselves within months based on the constant revenue of our model. 
 
 ##Why Choose Us##
