@@ -3,7 +3,7 @@
 
 Attn. President of the MTA:
 
-What if there were a way to optomize subway advertising revenue down to the minute with no work for the MTA? New Yorkers know when their subway station is going to be crowded, but sifting through all the available data is a real hassle. 
+What if there were a way to optimize subway advertising revenue down to the minute with no work for the MTA? New Yorkers know when their subway station is going to be crowded, but sifting through all the available data is a real hassle. 
 Adbros, Inc has developed an advertising model that we think would be of great interest to the Metropolitan Transportation Authority.
 
 ####How it Works###
