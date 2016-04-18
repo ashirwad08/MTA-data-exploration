@@ -1,5 +1,5 @@
 
-#Advertising Optomization Model Proposal#
+#Advertising Optimization Model Proposal#
 
 Attn. President of the MTA:
 
