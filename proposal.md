@@ -11,7 +11,7 @@ Traditional advertising models can't predict unusually popular times and they re
 
 Advertisers visit our internet portal www.getyradhere.com and select criteria from dropdown menus that informs the maximum amount they are willing to pay to run their ads. As passengers enter and exit the turnstiles, the 'bid price' for each ad increases, and the revenue increases dramatically. 
 
-Our model will respond as it is implimented. In addition to the preset ad costs, the pricing will change dynamically as we respond to advertiser interest - more revenue with less meetings. It is also integrated with the social media to collect impressions and historic census data, so inappropraite ads will not be a problem.
+Our model will respond as it is implemented. In addition to the preset ad costs, the pricing will change dynamically as we respond to advertiser interest - more revenue with less meetings. It is also integrated with the social media to collect impressions and historic census data, so inappropriate ads will not be a problem.
 
 ####Our Findings
 We have analyzed the traffic at each station by several different factors that will affect potential pricing structure. For example, we have the seasonal traffic by day:
