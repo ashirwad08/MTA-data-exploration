@@ -27,4 +27,6 @@ And also traditional commuter stops, such as Penn Station:
 The initial cost of our model is the purchase and installation of our digital screens throughout the subway system. While the digital screens are initially more costly than print ads, they will more than pay for themselves within months based on the constant revenue of our model. 
 
 ##Why Choose Us##
-It is clear to us after researching your system that MTA advertising is both a huge opportunity and a huge hassle for the MTA. With hundreds of stations and lines, changing the ads and knowing the appropriate pricing for each ad is nearly impossible without a model like ours. _Maximize your profits_: Let the advertisers come to _you_, and let us do the heavy lifting while you reap the rewards.
+It is clear to us after researching your system that MTA advertising is both a huge opportunity and a huge hassle for the MTA. With hundreds of stations and lines, changing the ads and knowing the appropriate pricing for each ad is nearly impossible without a model like ours. _Maximize your profits_: Let the advertisers come to _you_, and let us do the heavy lifting while you reap the rewards. 
+
+Ash Chakraborty, Emily Barry, Yashas Roy, Will Chernetsky
