@@ -15,13 +15,13 @@ Our model will respond as it is implemented. In addition to the preset ad costs,
 
 ####Our Findings
 We have analyzed the traffic at each station by several different factors that will affect potential pricing structure. For example, we have the seasonal traffic by day:
-![Daily Traffic by Season](/plots/daily_season.png)
+![Daily Traffic by Season](./plots/daily_season.png)
 By hour:
-![Hourly Traffic by Season](/plots/hourly_season.png)
+![Hourly Traffic by Season](./plots/hourly_season.png)
 We also have the differences for each station, so we can account for traditional tourist stops such as South Ferry Station:
-![South Ferry Station by Season](/plots/ferry_hourly.png)
+![South Ferry Station by Season](./plots/ferry_hourly.png)
 And also traditional commuter stops, such as Penn Station:
-![Penn Station by Season](/plots/penn_hourly.png)
+![Penn Station by Season](./plots/penn_hourly.png)
 
 ####Low Hassle, Low Cost, Huge Rewards####
 The initial cost of our model is the purchase and installation of our digital screens throughout the subway system. While the digital screens are initially more costly than print ads, they will more than pay for themselves within months based on the constant revenue of our model. 
